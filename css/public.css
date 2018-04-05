@@ -1,0 +1,10 @@
+*{
+	margin: 0;	/* body-8px */
+	text-decoration: none; /* a标签 */
+	padding: 0;
+	list-style: none;
+	font-style: normal;
+}
+/* body{
+	background-color: #f2f2f2;
+} */
